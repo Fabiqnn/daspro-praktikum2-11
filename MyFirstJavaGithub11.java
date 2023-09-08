@@ -1,9 +1,6 @@
-/**
- * MyFirstJavaGithub11
- */
 public class MyFirstJavaGithub11 {
 
-    public public static void main(String[] args) {
-        
+    public static void main(String[] args) {
+        System.out.println("Hello From Github");
     }
 }
